@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nagatasensei
 - 👀 I’m interested in learning and teaching.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on programming with Python, AI, AR and many other stuff.
 - 📫 How to reach me ...
+
 
 
 <!--- - 🌱 I’m currently learning ... --->
